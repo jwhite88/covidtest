@@ -1,0 +1,9 @@
+#content {
+  width: 500px;
+  margin: 0 auto;
+}
+
+#creditcard {
+  display: block;
+  margin: 20px 0 15px 15px;
+}
